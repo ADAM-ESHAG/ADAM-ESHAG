@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ADAM-ESHAG
-- 👀 I’m interested in Blockchain technology
+- 👀 I’m interested in Blockchain technology---> Web3
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT & C
 <!---
 ADAM-ESHAG/ADAM-ESHAG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
