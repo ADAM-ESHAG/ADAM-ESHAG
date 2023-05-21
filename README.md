@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Web Developer, JavaScript, ReactJs, VueJs NodeJs, ExpressJs, MongoDB, Scss.
+- 👋 Hi, I’m a Web Developer, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Scss.
 - 👀 I’m interested in Blockchain technology---> Web3
 - 🌱 Visit my Portfolio here ------>>> https://adameshag.com/
 <!---
